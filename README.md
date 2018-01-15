@@ -5,7 +5,7 @@ Configuration for RipplesMQ Client
 
 Use the PublishSubscribeConfig and RequestResponseConfig classes to define your API for your service
 
-´´´csharp
+```csharp
 namespace Grumpy.MyService.Api
 {
     public static class MyServiceConfig
@@ -23,4 +23,4 @@ namespace Grumpy.MyService.Api
         };
     }
 }
-´´´
+```

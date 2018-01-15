@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+    <metadata>
+        <id>Grumpy.RipplesMQ.Config</id>
+        <version>0</version>
+        <title>Grumpy.RipplesMQ.Config</title>
+        <description>Configuration for RipplesMQ Message Broker Client</description>
+        <summary>
+            Configuration for RipplesMQ Message Broker Client.
+        </summary>
+        <tags>Message MessageBroker Broker Publish Subscribe Request Response Config MessageBus</tags>
+        <authors>Anders Busted-Janum</authors>
+        <owners>GrumpyBusted</owners>
+        <projectUrl>https://github.com/GrumpyBusted/Grumpy.RipplesMQ.Config</projectUrl>
+        <licenseUrl>https://github.com/GrumpyBusted/Grumpy.RipplesMQ.Config/blob/master/LICENSE</licenseUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <language>en-US</language>
+        <copyright>Copyright © Busted-Janum 2018</copyright>
+    </metadata>
+    <files>
+        <file src="Grumpy.RipplesMQ.Config.dll" target="lib\net451" />
+        <file src="Grumpy.RipplesMQ.Config.pdb" target="lib\net451" />
+    </files>
+</package>

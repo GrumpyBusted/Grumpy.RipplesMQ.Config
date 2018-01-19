@@ -1,14 +1,14 @@
 ﻿using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("Grumpy.RipplesMQ.Config")]
-[assembly: AssemblyDescription("Configuration for RipplesMQ messages")]
+[assembly: AssemblyTitle("Grumpy.RipplesMQ.Config.UnitTests")]
+[assembly: AssemblyDescription("Unit Tests for Grumpy.RipplesMQ.Config")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Anders Busted-Janum")]
-[assembly: AssemblyProduct("Grumpy.RipplesMQ.Config")]
+[assembly: AssemblyProduct("Grumpy.RipplesMQ.Config.UnitTests")]
 [assembly: AssemblyCopyright("Copyright © Busted-Janum 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]
-[assembly: Guid("ad914c12-b45c-43cd-82e5-f7e0b5f3fd46")]
+[assembly: Guid("e7e890f2-f4f6-40cb-8c3a-5f3e045fb91f")]
 [assembly: AssemblyVersion("1.0.*")]

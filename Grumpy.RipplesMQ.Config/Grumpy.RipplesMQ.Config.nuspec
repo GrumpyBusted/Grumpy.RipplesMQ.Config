@@ -5,9 +5,7 @@
         <version>0</version>
         <title>Grumpy.RipplesMQ.Config</title>
         <description>Configuration for RipplesMQ messages</description>
-        <summary>
-            Configuration for RipplesMQ messages used to define API for Services using RipplesMQ as Message Broker.
-        </summary>
+        <summary>Configuration for RipplesMQ messages used to define API for Services using RipplesMQ as Message Broker.</summary>
         <tags>ripplesmq ripplesmq-client configuration</tags>
         <authors>Anders Busted-Janum</authors>
         <owners>GrumpyBusted</owners>
